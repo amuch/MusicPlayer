@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MusicPlayer</string>
+    <string name="artist_select_text">Select Artist:</string>
+    <string name="song_select_text">Add Song:</string>
+    <string name="stop_service_text">Stop Service</string>
+    <string name="fetch_songs_text">Fetch Songs</string>
+</resources>
